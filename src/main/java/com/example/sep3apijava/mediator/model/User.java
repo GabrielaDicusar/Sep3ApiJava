@@ -1,4 +1,4 @@
-package com.example.sep3apijava.api.model;
+package com.example.sep3apijava.mediator.model;
 
 import java.io.Serializable;
 

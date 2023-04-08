@@ -1,9 +1,7 @@
 package com.example.sep3apijava.mediator.RegisterUserDB;
 
-import com.example.sep3apijava.api.model.User;
-import com.example.sep3apijava.api.model.UserList;
-
-import java.util.List;
+import com.example.sep3apijava.mediator.model.User;
+import com.example.sep3apijava.mediator.model.UserList;
 
 public interface RegisterUserDao {
     boolean addUser(User user);
